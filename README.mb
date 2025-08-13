@@ -1,8 +1,5 @@
 # 🎵 Portable YouTube to MP3
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/License-Private-lightgrey)]  
-
 A lightweight, **standalone** application to convert YouTube videos to MP3 — **no Python installation required**.  
 
 ---
@@ -49,20 +46,10 @@ A lightweight, **standalone** application to convert YouTube videos to MP3 — *
 
 ---
 
-## Folder Structure 📁
-PortableYT-MP3/
-├─ PortableYT-MP3.exe # Main executable
-├─ binaries/
-│ ├─ ffmpeg.exe # Bundled FFmpeg
-│ └─ ffprobe.exe # Bundled FFprobe
-├─ README.md # This file
-└─ (optional: assets/screenshots)
-
----
-
 ## Screenshots 📸
 
-*(Add screenshots of your app here for better visibility)*
+![App Preview](preview.jpg)
+
 
 ---
 
@@ -78,6 +65,3 @@ PortableYT-MP3/
 ## License 📝
 
 Private / Personal use.  
-
----
-
