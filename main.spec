@@ -1,14 +1,10 @@
 # -*- mode: python ; coding: utf-8 -*-
-binaries = [
-    ('ffmpeg_bin/ffmpeg.exe', '.'),
-    ('ffmpeg_bin/ffprobe.exe', '.'),
-]
 
 
 a = Analysis(
     ['main.py'],
-    pathex=['.'],
-    binaries=binaries,
+    pathex=[],
+    binaries=[],
     datas=[],
     hiddenimports=[],
     hookspath=[],
@@ -40,4 +36,3 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
 )
-

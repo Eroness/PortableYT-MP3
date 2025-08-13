@@ -307,12 +307,12 @@ class App(ctk.CTk):
             else:
                 # If video ID couldn't be extracted, show the placeholder instead
                 print("Invalid video ID, showing placeholder")
-                self.show_placeholder()
+                self.show_placeholder(self.placeholder_image)
 
         except Exception as e:
             # Catch any errors (network, invalid image, etc.) and fallback to placeholder
             print(f"Exception while loading thumbnail: {e}")
-            self.show_placeholder()
+            self.show_placeholder(self.placeholder_image)
 
     # Extracting the ID of the video from the URL:
     def extract_video_id(self, url):
