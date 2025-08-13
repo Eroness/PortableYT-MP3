@@ -48,7 +48,7 @@ A lightweight, **standalone** application to convert YouTube videos to MP3 — *
 
 ## Screenshots 📸
 
-![App Preview](preview.jpg)
+![App Preview](Preview.jpg)
 
 
 ---
@@ -63,5 +63,6 @@ A lightweight, **standalone** application to convert YouTube videos to MP3 — *
 ---
 
 ## License 📝
+
 
 Private / Personal use.  
