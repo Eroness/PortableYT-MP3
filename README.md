@@ -1,3 +1,8 @@
+# My first GiHub project - It was mostly made to GITgud
+
+# Latest release
+[![Download Latest](https://github.com/Eroness/PortableYT-MP3/releases/latest/download/PortableYT-MP3.exe)](https://github.com/Eroness/PortableYT-MP3/releases/latest)
+
 # 🎵 Portable YouTube to MP3
 
 A lightweight, **standalone** application to convert YouTube videos to MP3 — **no Python installation required**.  

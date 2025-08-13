@@ -9,7 +9,7 @@ venv/
 env/
 
 # PyInstaller build folders
-build/
+build/main/
 dist/
 *.spec
 
